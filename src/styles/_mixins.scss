@@ -1,0 +1,11 @@
+@mixin background-img($img) {
+  background-image: url($img);
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+@mixin media($device) {
+  @media only screen and (min-width: $device) {
+    @content;
+  }
+}
