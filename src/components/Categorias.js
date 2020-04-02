@@ -14,25 +14,25 @@ const Categorias = () => {
       <div className="categorias">
         <ul>
           <li>
-            <a href="!#">
+            <a href="/">
               <FontAwesomeIcon icon={faMapMarkerAlt} className="icon" />
               Actividades
             </a>
           </li>
           <li>
-            <a href="!#">
+            <a href="/">
               <FontAwesomeIcon icon={faMusic} className="icon" />
               Festivales
             </a>
           </li>
           <li>
-            <a href="!#">
+            <a href="/">
               <FontAwesomeIcon icon={faUtensils} className="icon" />
               Restaurants
             </a>
           </li>
           <li>
-            <a href="!#">
+            <a href="/">
               <FontAwesomeIcon icon={faCheck} className="icon" />
               Actividades
             </a>

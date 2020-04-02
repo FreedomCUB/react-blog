@@ -19,7 +19,7 @@ const Entradas = () => {
             <h3>Tips para viajar con poco presupuesto</h3>
             <p>Publicado el: <span>19 Julio, 2018</span></p>
             <p>Por: <span>Blog Viajes</span></p>
-            <a href="!#" className="boton"> Leer más</a>
+            <a href="/" className="boton"> Leer más</a>
           </div>
         </article>
         <article className="entrada">
@@ -28,7 +28,7 @@ const Entradas = () => {
             <h3>Todo lo necesario para tu viaje</h3>
             <p>Publicado el: <span>19 Julio, 2018</span></p>
             <p>Por: <span>Blog Viajes</span></p>
-            <a href="!#" className="boton"> Leer más</a>
+            <a href="/" className="boton"> Leer más</a>
           </div>
         </article>
         <article className="entrada">
@@ -37,7 +37,7 @@ const Entradas = () => {
             <h3>El equipo necesario para tomar las mejores fotografías</h3>
             <p>Publicado el: <span>19 Julio, 2018</span></p>
             <p>Por: <span>Blog Viajes</span></p>
-            <a href="!#" className="boton"> Leer más</a>
+            <a href="/" className="boton"> Leer más</a>
           </div>
         </article>
         <article className="entrada">
@@ -46,7 +46,7 @@ const Entradas = () => {
             <h3>Checklist para tu próximo viaje</h3>
             <p>Publicado el: <span>19 Julio, 2018</span></p>
             <p>Por: <span>Blog Viajes</span></p>
-            <a href="!#" className="boton"> Leer más</a>
+            <a href="/" className="boton"> Leer más</a>
           </div>
         </article>
         <article className="entrada">
@@ -55,7 +55,7 @@ const Entradas = () => {
             <h3>Los mejores lugares para visitar este otoño</h3>
             <p>Publicado el: <span>19 Julio, 2018</span></p>
             <p>Por: <span>Blog Viajes</span></p>
-            <a href="!#" className="boton"> Leer más</a>
+            <a href="/" className="boton"> Leer más</a>
           </div>
         </article>
         <article className="entrada">
@@ -64,7 +64,7 @@ const Entradas = () => {
             <h3>Los mejores lugares para visitar con montañas</h3>
             <p>Publicado el: <span>19 Julio, 2018</span></p>
             <p>Por: <span>Blog Viajes</span></p>
-            <a href="!#" className="boton"> Leer más</a>
+            <a href="/" className="boton"> Leer más</a>
           </div>
         </article>
       </main>

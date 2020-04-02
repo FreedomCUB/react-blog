@@ -26,10 +26,10 @@ const Footer = () => {
                 <div className="ultimas-entradas">
                     <h2>últimas entradas</h2>
                     <ul>
-                        <li> <a href="!#">Lorem ipsum dolor sit.</a></li>
-                        <li><a href="!#">Lorem ipsum dolor sit amet.</a></li>
-                        <li><a href="!#">Lorem, ipsum dolor.</a></li>
-                        <li><a href="!#">Lorem ipsum dolor sit amet consectetur. </a></li>
+                        <li> <a href="/">Lorem ipsum dolor sit.</a></li>
+                        <li><a href="/">Lorem ipsum dolor sit amet.</a></li>
+                        <li><a href="/">Lorem, ipsum dolor.</a></li>
+                        <li><a href="/">Lorem ipsum dolor sit amet consectetur. </a></li>
                     </ul>
                 </div>
                 <div className="redes">
